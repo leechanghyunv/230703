@@ -1,0 +1,6324 @@
+{
+  "subwaydata": [
+     {
+      "subname": "가능",
+      "engname": "Ganeung",
+      "lat": 37.748362,
+      "lng": 127.044251,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "가산디지털단지",
+      "engname": "Gasan Digital Complex",
+      "lat": 37.480376,
+      "lng": 126.882704,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "간석",
+      "engname": "Ganseok",
+      "lat": 37.464714,
+      "lng": 126.69358,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "개봉",
+      "engname": "Gaebong",
+      "lat": 37.494698,
+      "lng": 126.858504,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "관악",
+      "engname": "Gwanak",
+      "lat": 37.419578,
+      "lng": 126.908476,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "광명",
+      "engname": "Gwangmyeong",
+      "lat": 37.415995,
+      "lng": 126.884523,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "광운대",
+      "engname": "Kwangwoon Univ.",
+      "lat": 37.623632,
+      "lng": 127.061835,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "구로",
+      "engname": "Guro Station",
+      "lat": 37.502211,
+      "lng": 126.881818,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "구일",
+      "engname": "Guil",
+      "lat": 37.496273,
+      "lng": 126.869599,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "군포",
+      "engname": "Gunpo",
+      "lat": 37.353732,
+      "lng": 126.948517,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "금정",
+      "engname": "Geumjeong",
+      "lat": 37.371957,
+      "lng": 126.943611,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "금천구청",
+      "engname": "Geumcheon-gu Office",
+      "lat": 37.45576,
+      "lng": 126.894344,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "남영",
+      "engname": "Namyeong",
+      "lat": 37.540597,
+      "lng": 126.971171,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "노량진",
+      "engname": "Noryangjin",
+      "lat": 37.514072,
+      "lng": 126.941671,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "녹양",
+      "engname": "Nogyang",
+      "lat": 37.759416,
+      "lng": 127.042272,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "녹천",
+      "engname": "Nokcheon",
+      "lat": 37.644599,
+      "lng": 127.051406,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "당정",
+      "engname": "Dangjeong",
+      "lat": 37.34338,
+      "lng": 126.948388,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "대방",
+      "engname": "Daebang(Sungae Hospital)",
+      "lat": 37.513392,
+      "lng": 126.926407,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "덕계",
+      "engname": "Deokgye",
+      "lat": 37.818761,
+      "lng": 127.056676,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "덕정",
+      "engname": "Deokjeong",
+      "lat": 37.843216,
+      "lng": 127.061511,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "도봉",
+      "engname": "Dobong",
+      "lat": 37.679563,
+      "lng": 127.045595,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "도봉산",
+      "engname": "Dobongsan",
+      "lat": 37.689603,
+      "lng": 127.046347,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "도원",
+      "engname": "Dowon",
+      "lat": 37.468604,
+      "lng": 126.642824,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "도화",
+      "engname": "Dohwa",
+      "lat": 37.466154,
+      "lng": 126.66846,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "독산",
+      "engname": "Doksan",
+      "lat": 37.465994,
+      "lng": 126.889508,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "동대문",
+      "engname": "Dongdaemun",
+      "lat": 37.571547,
+      "lng": 127.010123,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "동두천",
+      "engname": "Dongducheon",
+      "lat": 37.927569,
+      "lng": 127.054825,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "동두천중앙",
+      "engname": "Dongducheonjungang",
+      "lat": 37.901818,
+      "lng": 127.056528,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "동묘앞",
+      "engname": "Dongmyo",
+      "lat": 37.573265,
+      "lng": 127.016459,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "동암",
+      "engname": "Dongam",
+      "lat": 37.470835,
+      "lng": 126.703016,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "동인천",
+      "engname": "Dongincheon",
+      "lat": 37.475414,
+      "lng": 126.632598,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "두정",
+      "engname": "Dujeong",
+      "lat": 36.833791,
+      "lng": 127.148905,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "망월사",
+      "engname": "Mangwolsa",
+      "lat": 37.710499,
+      "lng": 127.047361,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "명학",
+      "engname": "Myeonghak",
+      "lat": 37.384435,
+      "lng": 126.935579,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "방학",
+      "engname": "Banghak",
+      "lat": 37.66796,
+      "lng": 127.04456,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "배방",
+      "engname": "Baebang",
+      "lat": 36.777541,
+      "lng": 127.052751,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "백운",
+      "engname": "Baegun",
+      "lat": 37.483301,
+      "lng": 126.707179,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "병점",
+      "engname": "Byeongjeom",
+      "lat": 37.206821,
+      "lng": 127.033268,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "보산",
+      "engname": "bosan",
+      "lat": 37.913702,
+      "lng": 127.057277,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "봉명",
+      "engname": "Bongmyeong",
+      "lat": 36.801578,
+      "lng": 127.136319,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "부개",
+      "engname": "Bugae",
+      "lat": 37.488479,
+      "lng": 126.740549,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "부천",
+      "engname": "Bucheon",
+      "lat": 37.484066,
+      "lng": 126.782779,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "부평",
+      "engname": "Bupyeong",
+      "lat": 37.489457,
+      "lng": 126.724584,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "서동탄",
+      "engname": "Seodongtan",
+      "lat": 37.195675,
+      "lng": 127.051893,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "서울",
+      "engname": "Seoul Station",
+      "lat": 37.55315,
+      "lng": 126.972533,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "서정리",
+      "engname": "Seojeong-re Station",
+      "lat": 37.056459,
+      "lng": 127.052844,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "석계",
+      "engname": "Seokgye",
+      "lat": 37.615206,
+      "lng": 127.065594,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "석수",
+      "engname": "Seoksu",
+      "lat": 37.435161,
+      "lng": 126.902233,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "성균관대",
+      "engname": "Sungkyunkwan Univ",
+      "lat": 37.300344,
+      "lng": 126.970861,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "성환",
+      "engname": "Seonghwan",
+      "lat": 36.915781,
+      "lng": 127.127007,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "세류",
+      "engname": "Seryu",
+      "lat": 37.244102,
+      "lng": 127.013772,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "세마",
+      "engname": "Sema",
+      "lat": 37.187288,
+      "lng": 127.043279,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "소사",
+      "engname": "Sosa",
+      "lat": 37.482755,
+      "lng": 126.795654,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "소요산",
+      "engname": "soyosan",
+      "lat": 37.948056,
+      "lng": 127.060833,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "송내",
+      "engname": "Songnae",
+      "lat": 37.487626,
+      "lng": 126.753045,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "송탄",
+      "engname": "Songtan",
+      "lat": 37.075376,
+      "lng": 127.054397,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "수원",
+      "engname": "Suwon",
+      "lat": 37.266162,
+      "lng": 126.999821,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "시청",
+      "engname": "City Hall",
+      "lat": 37.563534,
+      "lng": 126.975271,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "신길",
+      "engname": "Sin-gil",
+      "lat": 37.517018,
+      "lng": 126.917743,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "신도림",
+      "engname": "Sindorim",
+      "lat": 37.508983,
+      "lng": 126.891513,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "신설동",
+      "engname": "Sinseol-dong",
+      "lat": 37.574653,
+      "lng": 127.025158,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "신이문",
+      "engname": "Sinimun",
+      "lat": 37.602744744446,
+      "lng": 127.0675560127,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "신창",
+      "engname": "Sinchang (Soonchunhyang Univ.)",
+      "lat": 36.769213,
+      "lng": 126.950129,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "쌍용(나사렛대)",
+      "engname": "Ssangyong\\n(Korea Nazarene Univ.)",
+      "lat": 36.793745,
+      "lng": 127.121363,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "아산",
+      "engname": "Asan",
+      "lat": 36.792195,
+      "lng": 127.105049,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "안양",
+      "engname": "Anyang",
+      "lat": 37.401929,
+      "lng": 126.922647,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "양주",
+      "engname": "Yangju",
+      "lat": 37.774281,
+      "lng": 127.044719,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "역곡",
+      "engname": "Yeokgok",
+      "lat": 37.48514,
+      "lng": 126.811622,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "영등포",
+      "engname": "Yeongdeungpo",
+      "lat": 37.515756,
+      "lng": 126.907411,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "오류동",
+      "engname": "Oryu-dong",
+      "lat": 37.4944,
+      "lng": 126.844551,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "오산",
+      "engname": "Osan",
+      "lat": 37.145472,
+      "lng": 127.066708,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "오산대",
+      "engname": "Osan Univ.",
+      "lat": 37.169401,
+      "lng": 127.063081,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "온수",
+      "engname": "Onsu(sungkonghoe Univ.)",
+      "lat": 37.492267,
+      "lng": 126.823399,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "온양온천",
+      "engname": "Onyangoncheon",
+      "lat": 36.780419,
+      "lng": 127.003707,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "외대앞",
+      "engname": "Hankuk Univ. of Foreign Studies",
+      "lat": 37.596157,
+      "lng": 127.063572,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "용산",
+      "engname": "Yongsan",
+      "lat": 37.52989,
+      "lng": 126.964775,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "월계",
+      "engname": "Wolgye",
+      "lat": 37.633114,
+      "lng": 127.058835,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "의왕",
+      "engname": "Uiwang",
+      "lat": 37.320648,
+      "lng": 126.948099,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "의정부",
+      "engname": "Uijeongbu",
+      "lat": 37.73873,
+      "lng": 127.045891,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "인천",
+      "engname": "Incheon",
+      "lat": 37.476364,
+      "lng": 126.616936,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "제기동",
+      "engname": "Jegi-dong (Korea Association of Health Promotion)",
+      "lat": 37.578116,
+      "lng": 127.034902,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "제물포",
+      "engname": "Jemulpo",
+      "lat": 37.466809,
+      "lng": 126.657165,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "종각",
+      "engname": "Jonggak",
+      "lat": 37.570141,
+      "lng": 126.982968,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "종로3가",
+      "engname": "Jongno 3(sam)-ga (Tapgol Park)",
+      "lat": 37.570429,
+      "lng": 126.992095,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "종로5가",
+      "engname": "Jongno 5(o)ga",
+      "lat": 37.570971,
+      "lng": 127.0019,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "주안",
+      "engname": "Juan",
+      "lat": 37.465041,
+      "lng": 126.680702,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "중동",
+      "engname": "Jung-dong",
+      "lat": 37.486664,
+      "lng": 126.764474,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "지제",
+      "engname": "PyeongtaekJije",
+      "lat": 37.018822,
+      "lng": 127.070269,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "지행",
+      "engname": "Jihaeng",
+      "lat": 37.892361,
+      "lng": 127.055734,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "직산",
+      "engname": "Jiksan",
+      "lat": 36.870921,
+      "lng": 127.143774,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "진위",
+      "engname": "Jinwi",
+      "lat": 37.109771,
+      "lng": 127.062342,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "창동",
+      "engname": "Changdong",
+      "lat": 37.653181,
+      "lng": 127.047663,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "천안",
+      "engname": "Cheonan",
+      "lat": 36.810238,
+      "lng": 127.146417,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "청량리",
+      "engname": "Cheongnyangni(University of Seoul)",
+      "lat": 37.580148,
+      "lng": 127.045063,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "탕정",
+      "engname": "Tangjeong",
+      "lat": 36.788155,
+      "lng": 127.084228,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "평택",
+      "engname": "Pyeongtaek",
+      "lat": 36.990559,
+      "lng": 127.085496,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "화서",
+      "engname": "Hwaseo",
+      "lat": 37.28399,
+      "lng": 126.989581,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "회기",
+      "engname": "Hoegi",
+      "lat": 37.589802,
+      "lng": 127.057936,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "회룡",
+      "engname": "Hoeryong",
+      "lat": 37.724037,
+      "lng": 127.047319,
+      "line_ui": "Line1",
+      "subwayid": 1001,
+      "line": "01호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "강남",
+      "engname": "Gangnam",
+      "lat": 37.497958,
+      "lng": 127.027539,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "강변",
+      "engname": "Gangbyeon (Dongseoul Bus Terminal)",
+      "lat": 37.535161,
+      "lng": 127.094684,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "건대입구",
+      "engname": "Konkuk Univ.",
+      "lat": 37.540408,
+      "lng": 127.069231,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "교대",
+      "engname": "Seoul Natl Univ. of Education",
+      "lat": 37.493957,
+      "lng": 127.014631,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "구로디지털단지",
+      "engname": "Guro Digital Complex (Wonkwang Digital Univ.)",
+      "lat": 37.485005,
+      "lng": 126.902626,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "구의",
+      "engname": "Guui (Gwangjin-gu Office)",
+      "lat": 37.536857,
+      "lng": 127.085024,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "까치산",
+      "engname": "Kkachisan",
+      "lat": 37.531768,
+      "lng": 126.846683,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "낙성대",
+      "engname": "Nakseongdae(Ganggamchan)",
+      "lat": 37.47693,
+      "lng": 126.963783,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "당산",
+      "engname": "Dangsan",
+      "lat": 37.533877,
+      "lng": 126.902011,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "대림",
+      "engname": "Daerim(Guro-gu Office)",
+      "lat": 37.492984,
+      "lng": 126.896997,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "도림천",
+      "engname": "Dorimcheon",
+      "lat": 37.514496,
+      "lng": 126.882551,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "동대문역사문화공원",
+      "engname": "Dongdaemun History & Culture Park (DDP)",
+      "lat": 37.565609,
+      "lng": 127.009083,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "뚝섬",
+      "engname": "Ttukseom",
+      "lat": 37.54718,
+      "lng": 127.047413,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "문래",
+      "engname": "Mullae (Kims Eye Hospital)",
+      "lat": 37.517993,
+      "lng": 126.894766,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "방배",
+      "engname": "Bangbae (Baekseok Arts Univ.)",
+      "lat": 37.481469,
+      "lng": 126.997627,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "봉천",
+      "engname": "Bongcheon",
+      "lat": 37.482416,
+      "lng": 126.941896,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "사당",
+      "engname": "Sadang",
+      "lat": 37.476536,
+      "lng": 126.981631,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "삼성",
+      "engname": "Samseong (World Trade Center Seoul)",
+      "lat": 37.508827,
+      "lng": 127.063203,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "상왕십리",
+      "engname": "Sangwangsimni",
+      "lat": 37.564504,
+      "lng": 127.028872,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "서울대입구",
+      "engname": "Seoul Nat‘l Univ. (Gwanak-gu Office)",
+      "lat": 37.481233,
+      "lng": 126.952745,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "서초",
+      "engname": "Seocho",
+      "lat": 37.49191,
+      "lng": 127.007945,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "선릉",
+      "engname": "Seolleung",
+      "lat": 37.504257,
+      "lng": 127.048174,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "성수",
+      "engname": "Seongsu",
+      "lat": 37.544628,
+      "lng": 127.055983,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "시청",
+      "engname": "City Hall",
+      "lat": 37.563534,
+      "lng": 126.975271,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "신답",
+      "engname": "Sindap",
+      "lat": 37.569751,
+      "lng": 127.047085,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "신당",
+      "engname": "Sindang",
+      "lat": 37.565681,
+      "lng": 127.019488,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "신대방",
+      "engname": "Sindaebang",
+      "lat": 37.487534,
+      "lng": 126.913279,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "신도림",
+      "engname": "Sindorim",
+      "lat": 37.508983,
+      "lng": 126.891513,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "신림",
+      "engname": "Sillim",
+      "lat": 37.484216,
+      "lng": 126.929573,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "신설동",
+      "engname": "Sinseol-dong",
+      "lat": 37.574653,
+      "lng": 127.025158,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "신정네거리",
+      "engname": "Sinjeongnegeo-ri",
+      "lat": 37.520218,
+      "lng": 126.852849,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "신촌",
+      "engname": "Sinchon",
+      "lat": 37.555153,
+      "lng": 126.93689,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "아현",
+      "engname": "Ahyeon (Chugye Univ. for the Arts)",
+      "lat": 37.557407,
+      "lng": 126.956079,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "양천구청",
+      "engname": "Yangcheon-gu Office",
+      "lat": 37.512194,
+      "lng": 126.865193,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "역삼",
+      "engname": "Yeoksam (Centerfield)",
+      "lat": 37.500658,
+      "lng": 127.03643,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "영등포구청",
+      "engname": "Yeongdeungpo-gu Office",
+      "lat": 37.524209,
+      "lng": 126.895022,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "왕십리",
+      "engname": "Wangsimni (Seongdong-gu-office)",
+      "lat": 37.56197,
+      "lng": 127.037264,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "용답",
+      "engname": "Yongdap",
+      "lat": 37.562084,
+      "lng": 127.050865,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "용두",
+      "engname": "Yongdu (Dongdaemun-gu Office)",
+      "lat": 37.574012,
+      "lng": 127.03811,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "을지로3가",
+      "engname": "Euljiro 3(sa)ga",
+      "lat": 37.566292,
+      "lng": 126.991773,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "을지로4가",
+      "engname": "Euljiro 4(sa)ga",
+      "lat": 37.566611,
+      "lng": 126.998122,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "을지로입구",
+      "engname": "Euljiro 1(il)ga",
+      "lat": 37.565998,
+      "lng": 126.982569,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "이대",
+      "engname": "Ewha Womans Univ.",
+      "lat": 37.556734,
+      "lng": 126.945897,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "잠실",
+      "engname": "Jamsil (Songpa-gu Office)",
+      "lat": 37.513305,
+      "lng": 127.100129,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "잠실나루",
+      "engname": "Jamsillaru",
+      "lat": 37.520688,
+      "lng": 127.103836,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "잠실새내",
+      "engname": "Jamsilsaenae",
+      "lat": 37.511596,
+      "lng": 127.085891,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "종합운동장",
+      "engname": "Sports Complex",
+      "lat": 37.511008,
+      "lng": 127.073641,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "충정로",
+      "engname": "Chungjeongno (Kyonggi Univ.)",
+      "lat": 37.559742,
+      "lng": 126.964455,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "한양대",
+      "engname": "Hanyang Univ.",
+      "lat": 37.55658,
+      "lng": 127.04366,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "합정",
+      "engname": "Hapjeong (Holt Childrens Services, Inc)",
+      "lat": 37.550025,
+      "lng": 126.914557,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "홍대입구",
+      "engname": "Hongik Univ.",
+      "lat": 37.556748,
+      "lng": 126.923643,
+      "line_ui": "Line2",
+      "subwayid": 1002,
+      "line": "02호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "가락시장",
+      "engname": "Garak Market",
+      "lat": 37.492368,
+      "lng": 127.118101,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "경복궁",
+      "engname": "Gyeongbokgung (Government Complex-Seoul)",
+      "lat": 37.575844,
+      "lng": 126.973576,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "경찰병원",
+      "engname": "National Police Hospital",
+      "lat": 37.495754,
+      "lng": 127.124198,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "고속터미널",
+      "engname": "Express Bus Terminal",
+      "lat": 37.503387,
+      "lng": 127.005055,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "교대",
+      "engname": "Seoul Natl Univ. of Education",
+      "lat": 37.493957,
+      "lng": 127.014631,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "구파발",
+      "engname": "Gupabal",
+      "lat": 37.636612,
+      "lng": 126.918827,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "금호",
+      "engname": "Geumho",
+      "lat": 37.548269,
+      "lng": 127.015785,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "남부터미널",
+      "engname": "Nambu Bus Terminal (Seoul Arts Center)",
+      "lat": 37.48494,
+      "lng": 127.016289,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "녹번",
+      "engname": "Nokbeon",
+      "lat": 37.600882,
+      "lng": 126.935758,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "대곡",
+      "engname": "Daegok",
+      "lat": 37.631626,
+      "lng": 126.811024,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "대청",
+      "engname": "Daecheong",
+      "lat": 37.493607,
+      "lng": 127.079526,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "대치",
+      "engname": "Daechi",
+      "lat": 37.494601,
+      "lng": 127.063449,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "대화",
+      "engname": "Daehwa",
+      "lat": 37.676087,
+      "lng": 126.747569,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "도곡",
+      "engname": "Dogok",
+      "lat": 37.491129,
+      "lng": 127.055694,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "독립문",
+      "engname": "Dongnimmun",
+      "lat": 37.574534,
+      "lng": 126.957902,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "동대입구",
+      "engname": "Dongguk Univ.",
+      "lat": 37.559048,
+      "lng": 127.005039,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "마두",
+      "engname": "Madu",
+      "lat": 37.652206,
+      "lng": 126.77762,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "매봉",
+      "engname": "Maebong",
+      "lat": 37.487114,
+      "lng": 127.046907,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "무악재",
+      "engname": "Muakjae",
+      "lat": 37.582658,
+      "lng": 126.950131,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "백석",
+      "engname": "Baekseok",
+      "lat": 37.642973,
+      "lng": 126.788109,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "불광",
+      "engname": "Bulgwang",
+      "lat": 37.610554,
+      "lng": 126.929843,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "삼송",
+      "engname": "Samsong",
+      "lat": 37.653096,
+      "lng": 126.895559,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "수서",
+      "engname": "Suseo",
+      "lat": 37.487507,
+      "lng": 127.101324,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "신사",
+      "engname": "Sinsa",
+      "lat": 37.516438,
+      "lng": 127.020247,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "안국",
+      "engname": "Anguk",
+      "lat": 37.576562,
+      "lng": 126.98547,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "압구정",
+      "engname": "Apgujeong",
+      "lat": 37.526169,
+      "lng": 127.028502,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "약수",
+      "engname": "Yaksu",
+      "lat": 37.554674,
+      "lng": 127.010628,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "양재",
+      "engname": "Yangjae (Seocho-gu Office)",
+      "lat": 37.48466,
+      "lng": 127.03513,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "연신내",
+      "engname": "Yeonsinnae",
+      "lat": 37.618855,
+      "lng": 126.920859,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "오금",
+      "engname": "Ogeum",
+      "lat": 37.502288,
+      "lng": 127.128344,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "옥수",
+      "engname": "Oksu",
+      "lat": 37.541653,
+      "lng": 127.017303,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "원당",
+      "engname": "Wondang",
+      "lat": 37.653103,
+      "lng": 126.842891,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "원흥",
+      "engname": "Wonheung",
+      "lat": 37.650709,
+      "lng": 126.873239,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "을지로3가",
+      "engname": "Euljiro 3(sa)ga",
+      "lat": 37.566292,
+      "lng": 126.991773,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "일원",
+      "engname": "Irwon",
+      "lat": 37.48389,
+      "lng": 127.08416,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "잠원",
+      "engname": "Jamwon",
+      "lat": 37.512989,
+      "lng": 127.011613,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "정발산",
+      "engname": "Jeongbalsan",
+      "lat": 37.659709,
+      "lng": 126.773254,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "종로3가",
+      "engname": "Jongno 3(sam)-ga (Tapgol Park)",
+      "lat": 37.570429,
+      "lng": 126.992095,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "주엽",
+      "engname": "Juyeop",
+      "lat": 37.670138,
+      "lng": 126.761232,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "지축",
+      "engname": "Jichuk",
+      "lat": 37.648281,
+      "lng": 126.912551,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "충무로",
+      "engname": "Chungmuro",
+      "lat": 37.561272,
+      "lng": 126.994242,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "학여울",
+      "engname": "Hangnyeoul",
+      "lat": 37.496757,
+      "lng": 127.070541,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "홍제",
+      "engname": "Hongje",
+      "lat": 37.588851,
+      "lng": 126.944092,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "화정",
+      "engname": "Hwajeong",
+      "lat": 37.634591,
+      "lng": 126.832708,
+      "line_ui": "Line3",
+      "subwayid": 1003,
+      "line": "03호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "경마공원",
+      "engname": "Seoul Racecourse Park",
+      "lat": 37.443987,
+      "lng": 127.007899,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "고잔",
+      "engname": "Gojan",
+      "lat": 37.316821,
+      "lng": 126.823094,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "과천",
+      "engname": "Gwacheon",
+      "lat": 37.432687,
+      "lng": 126.996372,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "금정",
+      "engname": "Geumjeong",
+      "lat": 37.371957,
+      "lng": 126.943611,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "길음",
+      "engname": "Gireum",
+      "lat": 37.604087,
+      "lng": 127.025353,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "남태령",
+      "engname": "Namtaeryeong",
+      "lat": 37.464339,
+      "lng": 126.989081,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "노원",
+      "engname": "Nowon",
+      "lat": 37.656274,
+      "lng": 127.063183,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "당고개",
+      "engname": "Danggogae",
+      "lat": 37.66956,
+      "lng": 127.078404,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "대공원",
+      "engname": "Seoul Grand Park Station",
+      "lat": 37.435724,
+      "lng": 127.006474,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "대야미",
+      "engname": "Daeyami",
+      "lat": 37.3281687,
+      "lng": 126.91666,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "동대문",
+      "engname": "Dongdaemun",
+      "lat": 37.571547,
+      "lng": 127.010123,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+    {
+      "subname": "동대문역사문화공원",
+      "engname": "Dongdaemun History & Culture Park (DDP)",
+      "lat": 37.565609,
+      "lng": 127.009083,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "동작",
+      "engname": "Dongjak (Seoul National Cemetery)",
+      "lat": 37.503567,
+      "lng": 126.980171,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "명동",
+      "engname": "Myeongdong",
+      "lat": 37.560903,
+      "lng": 126.986076,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "미아",
+      "engname": "Mia (Seoul Cyber Univ.)",
+      "lat": 37.626435,
+      "lng": 127.026151,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "미아사거리",
+      "engname": "Miasageori",
+      "lat": 37.613276,
+      "lng": 127.030083,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "반월",
+      "engname": "Banwol",
+      "lat": 37.312212,
+      "lng": 126.903524,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "범계",
+      "engname": "Beomgye",
+      "lat": 37.389783,
+      "lng": 126.950752,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "사당",
+      "engname": "Sadang",
+      "lat": 37.476536,
+      "lng": 126.981631,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+      {
+      "subname": "산본",
+      "engname": "Sanbon",
+      "lat": 37.350297,
+      "lng": 126.925537,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "삼각지",
+      "engname": "Samgakji",
+      "lat": 37.535057,
+      "lng": 126.973354,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "상계",
+      "engname": "Sanggye",
+      "lat": 37.660576,
+      "lng": 127.073199,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "상록수",
+      "engname": "Sangnoksu",
+      "lat": 37.302845,
+      "lng": 126.866533,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "서울",
+      "engname": "Seoul Station",
+      "lat": 37.55315,
+      "lng": 126.972533,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "선바위",
+      "engname": "Seonbawi",
+      "lat": 37.451854,
+      "lng": 127.002164,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "성신여대입구",
+      "engname": "Sungshin Womens Univ. (Donam)",
+      "lat": 37.592782,
+      "lng": 127.017338,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "수리산",
+      "engname": "Surisan",
+      "lat": 37.350297,
+      "lng": 126.925537,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "수유",
+      "engname": "Suyu (Gangbuk-gu Office)",
+      "lat": 37.637715,
+      "lng": 127.025334,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "숙대입구",
+      "engname": "Sookmyung Women's Univ. (Garwol)",
+      "lat": 37.545124,
+      "lng": 126.971952,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "신길온천",
+      "engname": "Silgiloncheon",
+      "lat": 37.337488,
+      "lng": 126.767306,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "신용산",
+      "engname": "Sinyongsan",
+      "lat": 37.529223,
+      "lng": 126.967939,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "쌍문",
+      "engname": "Ssangmun",
+      "lat": 37.648274,
+      "lng": 127.034381,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "안산",
+      "engname": "Ansan",
+      "lat": 37.327006,
+      "lng": 126.788748,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "오이도",
+      "engname": "Oido",
+      "lat": 37.361773,
+      "lng": 126.738437,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "이촌",
+      "engname": "Ichon (National Museum of Korea)",
+      "lat": 37.522525,
+      "lng": 126.97335,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "인덕원",
+      "engname": "Indeogwon",
+      "lat": 37.40144,
+      "lng": 126.976664,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "정부과천청사",
+      "engname": "Government Complex Gwacheon",
+      "lat": 37.426445,
+      "lng": 126.989802,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "정왕",
+      "engname": "Jeongwang",
+      "lat": 37.351816,
+      "lng": 126.742844,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "중앙",
+      "engname": "Jungang",
+      "lat": 37.316055,
+      "lng": 126.838532,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "창동",
+      "engname": "Changdong",
+      "lat": 37.653181,
+      "lng": 127.047663,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "초지",
+      "engname": "Choji",
+      "lat": 37.320583,
+      "lng": 126.806151,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "총신대입구(이수)",
+      "engname": "Chongshin Univ. (Isu)",
+      "lat": 37.487521,
+      "lng": 126.982309,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "충무로",
+      "engname": "Chungmuro",
+      "lat": 37.56129,
+      "lng": 126.994322,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "평촌",
+      "engname": "Pyeongchon",
+      "lat": 37.394346,
+      "lng": 126.963881,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "한대앞",
+      "engname": "Hanyang Univ. at Ansan",
+      "lat": 37.309685,
+      "lng": 126.853656,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "한성대입구",
+      "engname": "Hansung Univ. (Samseongyo)",
+      "lat": 37.588425,
+      "lng": 127.006092,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "혜화",
+      "engname": "Hyehwa (Seoul Natl Univ. Hospital)",
+      "lat": 37.582116,
+      "lng": 127.001759,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "회현",
+      "engname": "Hoehyeon (Namdaemun Market)",
+      "lat": 37.558811,
+      "lng": 126.978469,
+      "line_ui": "Line4",
+      "subwayid": 1004,
+      "line": "04호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "강동",
+      "engname": "Gangdong(Kangdong Sacred Heart Hospital)",
+      "lat": 37.53581,
+      "lng": 127.13249,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "강일",
+      "engname": "Gangil",
+      "lat": 37.557521,
+      "lng": 127.176018,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "개롱",
+      "engname": "Gaerong",
+      "lat": 37.498097,
+      "lng": 127.134817,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "개화산",
+      "engname": "Gaehwasan",
+      "lat": 37.572458,
+      "lng": 126.806838,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "거여",
+      "engname": "Geoyeo",
+      "lat": 37.493208,
+      "lng": 127.143983,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "고덕",
+      "engname": "Godeok",
+      "lat": 37.555002,
+      "lng": 127.154214,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "공덕",
+      "engname": "Gongdeok",
+      "lat": 37.544005,
+      "lng": 126.951058,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "광나루(장신대)",
+      "engname": "Gwangnaru(Presbyterian University & Theological Seminary)",
+      "lat": 37.545301,
+      "lng": 127.103478,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "광화문",
+      "engname": "Gwanghwamun (Sejong Center for the Performing Arts)",
+      "lat": 37.571595,
+      "lng": 126.976294,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "군자(능동)",
+      "engname": "Gunja (Neung-dong)",
+      "lat": 37.557102,
+      "lng": 127.079559,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "굽은다리(강동구민회관앞)",
+      "engname": "Gubeundari (Gangdong Community Center)",
+      "lat": 37.545442,
+      "lng": 127.142844,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "길동",
+      "engname": "Gil-dong",
+      "lat": 37.538022,
+      "lng": 127.140085,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "김포공항",
+      "engname": "Gimpo Intl Airport",
+      "lat": 37.56217,
+      "lng": 126.801273,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "까치산",
+      "engname": "Kkachisan",
+      "lat": 37.53181,
+      "lng": 126.846706,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "답십리",
+      "engname": "Dapsimni",
+      "lat": 37.566833,
+      "lng": 127.05266,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "동대문역사문화공원",
+      "engname": "Dongdaemun History & Culture Park (DDP)",
+      "lat": 37.565609,
+      "lng": 127.009083,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "둔촌동",
+      "engname": "Dunchon-dong",
+      "lat": 37.527787,
+      "lng": 127.136219,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "마곡",
+      "engname": "Magok",
+      "lat": 37.559921,
+      "lng": 126.824943,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "마장",
+      "engname": "Majang",
+      "lat": 37.566066,
+      "lng": 127.042921,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "마천",
+      "engname": "Macheon",
+      "lat": 37.494972,
+      "lng": 127.152784,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "마포",
+      "engname": "Mapo",
+      "lat": 37.539718,
+      "lng": 126.946043,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "명일",
+      "engname": "Myeongil",
+      "lat": 37.551317,
+      "lng": 127.144002,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "목동",
+      "engname": "Mok-dong",
+      "lat": 37.526088,
+      "lng": 126.864296,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "미사",
+      "engname": "Misa",
+      "lat": 37.56329,
+      "lng": 127.192954,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "발산",
+      "engname": "Balsan",
+      "lat": 37.558542,
+      "lng": 126.837708,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "방이",
+      "engname": "Bangi",
+      "lat": 37.508752,
+      "lng": 127.126054,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "방화",
+      "engname": "Banghwa",
+      "lat": 37.577669,
+      "lng": 126.812822,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "상일동",
+      "engname": "Sangil-dong",
+      "lat": 37.556714,
+      "lng": 127.166381,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "서대문",
+      "engname": "Seodaemun",
+      "lat": 37.565812,
+      "lng": 126.966639,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "송정",
+      "engname": "Songjeong",
+      "lat": 37.561411,
+      "lng": 126.812052,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "신금호",
+      "engname": "Singeumho",
+      "lat": 37.554504,
+      "lng": 127.020403,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "신길",
+      "engname": "Sin-gil",
+      "lat": 37.51763,
+      "lng": 126.914886,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "신정(은행정)",
+      "engname": "Sinjeong(Eunhaengjeong)",
+      "lat": 37.525001,
+      "lng": 126.856176,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "아차산(어린이대공원후문)",
+      "engname": "Achasan(Rear Entrance to Seoul Children's Grand Park)",
+      "lat": 37.552005,
+      "lng": 127.089609,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "애오개",
+      "engname": "Aeogae",
+      "lat": 37.553592,
+      "lng": 126.956733,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "양평",
+      "engname": "Yangpyeong",
+      "lat": 37.525614,
+      "lng": 126.886177,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "여의나루",
+      "engname": "Yeouinaru",
+      "lat": 37.527145,
+      "lng": 126.932807,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "여의도",
+      "engname": "Yeouido (Shinhan Securities)",
+      "lat": 37.521578,
+      "lng": 126.924318,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "영등포구청",
+      "engname": "Yeongdeungpo-gu Office",
+      "lat": 37.524209,
+      "lng": 126.895022,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "영등포시장",
+      "engname": "Yeongdeungpo Market",
+      "lat": 37.522694,
+      "lng": 126.905093,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "오금",
+      "engname": "Ogeum",
+      "lat": 37.502288,
+      "lng": 127.128344,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "오목교(목동운동장앞)",
+      "engname": "Omokgyo(Mokdong Stadium)",
+      "lat": 37.524557,
+      "lng": 126.875049,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "올림픽공원(한국체대)",
+      "engname": "Olympic Park(Korea National Sport University)",
+      "lat": 37.516217,
+      "lng": 127.130957,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "왕십리",
+      "engname": "Wangsimni (Seongdong-gu-office)",
+      "lat": 37.56197,
+      "lng": 127.037264,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "우장산",
+      "engname": "Ujangsan",
+      "lat": 37.548864,
+      "lng": 126.83633,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "을지로4가",
+      "engname": "Euljiro 4(sa)ga",
+      "lat": 37.566611,
+      "lng": 126.998122,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "장한평",
+      "engname": "Janghanpyeong",
+      "lat": 37.561438,
+      "lng": 127.064601,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "종로3가",
+      "engname": "Jongno 3(sam)-ga (Tapgol Park)",
+      "lat": 37.570429,
+      "lng": 126.992095,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "천호(풍납토성)",
+      "engname": "Cheonho(Pungnaptoseong)",
+      "lat": 37.53792,
+      "lng": 127.123179,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "청구",
+      "engname": "Cheong-gu",
+      "lat": 37.560237,
+      "lng": 127.01379,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "충정로",
+      "engname": "Chungjeongno (Kyonggi Univ.)",
+      "lat": 37.559742,
+      "lng": 126.964455,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "하남검단산",
+      "engname": "Hanam Geomdansan",
+      "lat": 37.539729,
+      "lng": 127.223427,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "하남시청",
+      "engname": "Hanam City Hall (Deokpung&Sinjang)",
+      "lat": 37.541723,
+      "lng": 127.206901,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "하남풍산",
+      "engname": "Hanam Pungsan",
+      "lat": 37.552201,
+      "lng": 127.203897,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "행당",
+      "engname": "Haengdang",
+      "lat": 37.557297,
+      "lng": 127.029482,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "화곡",
+      "engname": "Hwagok",
+      "lat": 37.541585,
+      "lng": 126.840436,
+      "line_ui": "Line5",
+      "subwayid": 1005,
+      "line": "05호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "고려대",
+      "engname": "Korea Univ.(Jongam)",
+      "lat": 37.590528,
+      "lng": 127.036256,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "공덕",
+      "engname": "Gongdeok",
+      "lat": 37.544005,
+      "lng": 126.951058,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "광흥창",
+      "engname": "Gwangheungchang(Seogang)",
+      "lat": 37.547464,
+      "lng": 126.931971,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "구산",
+      "engname": "Gusan",
+      "lat": 37.611302,
+      "lng": 126.91725,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "녹사평",
+      "engname": "Noksapyeong(Yongsan-gu Office)",
+      "lat": 37.53477,
+      "lng": 126.986388,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "대흥(서강대앞)",
+      "engname": "Daeheung(Sogang Univ.)",
+      "lat": 37.547629,
+      "lng": 126.942518,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "독바위",
+      "engname": "Dokbawi",
+      "lat": 37.618413,
+      "lng": 126.933035,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "돌곶이",
+      "engname": "Dolgoji",
+      "lat": 37.610459,
+      "lng": 127.056265,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "동묘앞",
+      "engname": "Dongmyo",
+      "lat": 37.573265,
+      "lng": 127.016459,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "디지털미디어시티",
+      "engname": "Digital Media City",
+      "lat": 37.577486,
+      "lng": 126.900421,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "마포구청",
+      "engname": "Mapo-gu Office",
+      "lat": 37.563535,
+      "lng": 126.903326,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "망원",
+      "engname": "Mangwon",
+      "lat": 37.556134,
+      "lng": 126.909984,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "버티고개",
+      "engname": "Beotigogae",
+      "lat": 37.547817,
+      "lng": 127.00676,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "보문",
+      "engname": "Bomun",
+      "lat": 37.585358,
+      "lng": 127.019409,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "봉화산",
+      "engname": "Bonghwasan(Seoul Medical Center)",
+      "lat": 37.617228,
+      "lng": 127.091577,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "불광",
+      "engname": "Bulgwang",
+      "lat": 37.610919,
+      "lng": 126.929504,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "삼각지",
+      "engname": "Samgakji",
+      "lat": 37.601833,
+      "lng": 127.041397,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "상수",
+      "engname": "Sangsu",
+      "lat": 37.547704,
+      "lng": 126.92292,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "상월곡(한국과학기술연구원)",
+      "engname": "Sangwolgok(KIST)",
+      "lat": 37.60192,
+      "lng": 127.041492,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "새절(신사)",
+      "engname": "Saejeol(Sinsa)",
+      "lat": 37.591148,
+      "lng": 126.913613,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "석계",
+      "engname": "Seokgye",
+      "lat": 37.614937,
+      "lng": 127.065922,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "신내",
+      "engname": "Sinnae",
+      "lat": 37.612571,
+      "lng": 127.104326,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "신당",
+      "engname": "Sindang",
+      "lat": 37.565681,
+      "lng": 127.019488,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "안암(고대병원앞)",
+      "engname": "Anam(Korea Univ. Hospital)",
+      "lat": 37.586261,
+      "lng": 127.02903,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "약수",
+      "engname": "Yaksu",
+      "lat": 37.554674,
+      "lng": 127.010628,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "역촌",
+      "engname": "Yeokchon",
+      "lat": 37.60605,
+      "lng": 126.922764,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "연신내",
+      "engname": "Yeonsinnae",
+      "lat": 37.618855,
+      "lng": 126.920859,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "월곡(동덕여대)",
+      "engname": "Wolgok(Dongduk Women's Univ.)",
+      "lat": 37.60192,
+      "lng": 127.041492,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "월드컵경기장(성산)",
+      "engname": "World Cup Stadium(Seongsan)",
+      "lat": 37.569439,
+      "lng": 126.899077,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "응암순환(상선)",
+      "engname": "Eungam",
+      "lat": 37.598529,
+      "lng": 126.915515,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "이태원",
+      "engname": "Itaewon",
+      "lat": 37.534526,
+      "lng": 126.994283,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "증산(명지대앞)",
+      "engname": "Jeungsan(Myongji Univ.)",
+      "lat": 37.583685,
+      "lng": 126.909434,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "창신",
+      "engname": "Changsin",
+      "lat": 37.579772,
+      "lng": 127.015246,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "청구",
+      "engname": "Cheong-gu",
+      "lat": 37.560297,
+      "lng": 127.013848,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "태릉입구",
+      "engname": "Taereung",
+      "lat": 37.617539,
+      "lng": 127.075317,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "한강진",
+      "engname": "Hangangjin",
+      "lat": 37.540088,
+      "lng": 127.001762,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "합정",
+      "engname": "Hapjeong (Holt Childrens Services, Inc)",
+      "lat": 37.550025,
+      "lng": 126.914557,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "화랑대(서울여대입구)",
+      "engname": "Hwarangdae (Seoul Womens Univ.)",
+      "lat": 37.619849,
+      "lng": 127.083681,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "효창공원앞",
+      "engname": "Hyochang Park",
+      "lat": 37.539289,
+      "lng": 126.961339,
+      "line_ui": "Line6",
+      "subwayid": 1006,
+      "line": "06호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "가산디지털단지",
+      "engname": "Gasan Digital Complex",
+      "lat": 37.480376,
+      "lng": 126.882704,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "강남구청",
+      "engname": "Gangnam-gu Office",
+      "lat": 37.517432,
+      "lng": 127.041185,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "건대입구",
+      "engname": "Konkuk Univ.",
+      "lat": 37.540408,
+      "lng": 127.069231,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "고속터미널",
+      "engname": "Express Bus Terminal",
+      "lat": 37.503387,
+      "lng": 127.005055,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "공릉(서울산업대입구)",
+      "engname": "Gongneung (Seoul Natl Univ. ofScience and Technology)",
+      "lat": 37.625642,
+      "lng": 127.072969,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "광명사거리",
+      "engname": "Gwangmyeongsageori",
+      "lat": 37.47927,
+      "lng": 126.854854,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "군자(능동)",
+      "engname": "Gunja (Neung-dong)",
+      "lat": 37.557151,
+      "lng": 127.079484,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "굴포천",
+      "engname": "Gulpocheon",
+      "lat": 37.506989,
+      "lng": 126.731122,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "까치울",
+      "engname": "Kkachiul",
+      "lat": 37.506265,
+      "lng": 126.81093,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "남구로",
+      "engname": "Namguro",
+      "lat": 37.486181,
+      "lng": 126.887372,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "남성",
+      "engname": "Namseong",
+      "lat": 37.484688,
+      "lng": 126.971108,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "내방",
+      "engname": "Naebang (uJung Art Center)",
+      "lat": 37.48764,
+      "lng": 126.993541,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "노원",
+      "engname": "Nowon",
+      "lat": 37.656274,
+      "lng": 127.063183,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "논현",
+      "engname": "Nonhyeon",
+      "lat": 37.511108,
+      "lng": 127.021385,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "대림",
+      "engname": "Daerim(Guro-gu Office)",
+      "lat": 37.492984,
+      "lng": 126.896997,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "도봉산",
+      "engname": "Dobongsan",
+      "lat": 37.689603,
+      "lng": 127.046347,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "뚝섬유원지",
+      "engname": "Ttukseom Park",
+      "lat": 37.531558,
+      "lng": 127.066714,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "마들",
+      "engname": "Madeul",
+      "lat": 37.664985,
+      "lng": 127.057701,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "먹골",
+      "engname": "Meokgol",
+      "lat": 37.610638,
+      "lng": 127.077719,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "면목",
+      "engname": "Myeonmok (Seoil Univ.)",
+      "lat": 37.588671,
+      "lng": 127.087503,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "반포",
+      "engname": "Banpo",
+      "lat": 37.508161,
+      "lng": 127.011673,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "보라매",
+      "engname": "Boramae",
+      "lat": 37.499916,
+      "lng": 126.920112,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "부천시청",
+      "engname": "Bucheon City Hall",
+      "lat": 37.504624,
+      "lng": 126.763968,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "부천종합운동장",
+      "engname": "Bucheon Stadium",
+      "lat": 37.505453,
+      "lng": 126.797058,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "부평구청",
+      "engname": "Bupyeong-gu office",
+      "lat": 37.50775,
+      "lng": 126.720541,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "사가정",
+      "engname": "Sagajeong",
+      "lat": 37.581059,
+      "lng": 127.08851,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "산곡",
+      "engname": "Sangok",
+      "lat": 37.508644,
+      "lng": 126.703443,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "삼산체육관",
+      "engname": "Samsan Gymnasium",
+      "lat": 37.50644,
+      "lng": 126.742168,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "상도(중앙대앞)",
+      "engname": "Sang-do",
+      "lat": 37.50279,
+      "lng": 126.947949,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "상동",
+      "engname": "Sang-dong",
+      "lat": 37.505776,
+      "lng": 126.753146,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "상봉",
+      "engname": "Sangbong(Intercity Bus Terminal)",
+      "lat": 37.595673,
+      "lng": 127.085708,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "석남",
+      "engname": "Seongnam(Geobuk Market)",
+      "lat": 37.506216,
+      "lng": 126.676171,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "수락산",
+      "engname": "Suraksan",
+      "lat": 37.677804,
+      "lng": 127.055314,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "숭실대입구(살피재)",
+      "engname": "Soongsil Univ. (Salpijae)",
+      "lat": 37.496258,
+      "lng": 126.953649,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "신대방삼거리",
+      "engname": "Sindaebangsamgeori",
+      "lat": 37.499717,
+      "lng": 126.928218,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "신중동",
+      "engname": "Sinjung-dong",
+      "lat": 37.503021,
+      "lng": 126.776286,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "신풍",
+      "engname": "Sinpung",
+      "lat": 37.500107,
+      "lng": 126.909806,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "어린이대공원(세종대)",
+      "engname": "Children's Grand Park(Sejong Univ.)",
+      "lat": 37.547962,
+      "lng": 127.07465,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "온수",
+      "engname": "Onsu(sungkonghoe Univ.)",
+      "lat": 37.492059,
+      "lng": 126.823294,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "용마산",
+      "engname": "Yongmasan(Yongma Falls Park)",
+      "lat": 37.573752,
+      "lng": 127.086802,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "장승배기",
+      "engname": "Jangseungbaegi",
+      "lat": 37.504845,
+      "lng": 126.939025,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "장암",
+      "engname": "Jangam",
+      "lat": 37.70015,
+      "lng": 127.053126,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "중계",
+      "engname": "Junggye (Korean Bible Univ.)",
+      "lat": 37.645052,
+      "lng": 127.064084,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "중곡",
+      "engname": "Junggok",
+      "lat": 37.565877,
+      "lng": 127.084291,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "중화",
+      "engname": "Junghwa",
+      "lat": 37.602604,
+      "lng": 127.079254,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "천왕",
+      "engname": "Cheonwang",
+      "lat": 37.486699,
+      "lng": 126.838684,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "철산",
+      "engname": "Cheolsan",
+      "lat": 37.47616,
+      "lng": 126.868217,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "청담",
+      "engname": "Cheongdam",
+      "lat": 37.519097,
+      "lng": 127.051851,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "총신대입구(이수)",
+      "engname": "Chongshin Univ. (Isu)",
+      "lat": 37.487521,
+      "lng": 126.982309,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "춘의",
+      "engname": "Chunui",
+      "lat": 37.50369,
+      "lng": 126.786975,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "태릉입구",
+      "engname": "Taereung",
+      "lat": 37.617539,
+      "lng": 127.075317,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "하계",
+      "engname": "Hagye",
+      "lat": 37.636363,
+      "lng": 127.067999,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "학동",
+      "engname": "Hak-dong",
+      "lat": 37.514262,
+      "lng": 127.031738,
+      "line_ui": "Line7",
+      "subwayid": 1007,
+      "line": "07호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "가락시장",
+      "engname": "Garak Market",
+      "lat": 37.492368,
+      "lng": 127.118101,
+      "line_ui": "Line8",
+      "subwayid": 1008,
+      "line": "08호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "강동구청",
+      "engname": "Gangdong-gu Office",
+      "lat": 37.530348,
+      "lng": 127.120461,
+      "line_ui": "Line8",
+      "subwayid": 1008,
+      "line": "08호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "남위례",
+      "engname": "Namwirye",
+      "lat": 37.462839,
+      "lng": 127.139047,
+      "line_ui": "Line8",
+      "subwayid": 1008,
+      "line": "08호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "남한산성입구(성남법원, 검찰청)",
+      "engname": "Namhansanseong (Seongnam Court & Prosecutors office)",
+      "lat": 37.451568,
+      "lng": 127.159845,
+      "line_ui": "Line8",
+      "subwayid": 1008,
+      "line": "08호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "단대오거리",
+      "engname": "Dandaeogeo-ri",
+      "lat": 37.445057,
+      "lng": 127.156735,
+      "line_ui": "Line8",
+      "subwayid": 1008,
+      "line": "08호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "모란",
+      "engname": "Moran",
+      "lat": 37.433888,
+      "lng": 127.129921,
+      "line_ui": "Line8",
+      "subwayid": 1008,
+      "line": "08호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "몽촌토성(평화의문)",
+      "engname": "Mongchontoseong(World Peace Gate)",
+      "lat": 37.517692,
+      "lng": 127.11274,
+      "line_ui": "Line8",
+      "subwayid": 1008,
+      "line": "08호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "문정",
+      "engname": "Munjeong",
+      "lat": 37.485931,
+      "lng": 127.122473,
+      "line_ui": "Line8",
+      "subwayid": 1008,
+      "line": "08호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "복정",
+      "engname": "Bokjeong",
+      "lat": 37.471016,
+      "lng": 127.126746,
+      "line_ui": "Line8",
+      "subwayid": 1008,
+      "line": "08호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "산성",
+      "engname": "Sanseong",
+      "lat": 37.456886,
+      "lng": 127.149927,
+      "line_ui": "Line8",
+      "subwayid": 1008,
+      "line": "08호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "석촌",
+      "engname": "Seokchon",
+      "lat": 37.505396,
+      "lng": 127.106995,
+      "line_ui": "Line8",
+      "subwayid": 1008,
+      "line": "08호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "송파",
+      "engname": "Jamsil(Songpa-gu Office)",
+      "lat": 37.499814,
+      "lng": 127.112122,
+      "line_ui": "Line8",
+      "subwayid": 1008,
+      "line": "08호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "수진",
+      "engname": "Sujin",
+      "lat": 37.437575,
+      "lng": 127.140936,
+      "line_ui": "Line8",
+      "subwayid": 1008,
+      "line": "08호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "신흥",
+      "engname": "Sinheung",
+      "lat": 37.440952,
+      "lng": 127.14759,
+      "line_ui": "Line8",
+      "subwayid": 1008,
+      "line": "08호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "암사",
+      "engname": "Amsa",
+      "lat": 37.550127,
+      "lng": 127.127521,
+      "line_ui": "Line8",
+      "subwayid": 1008,
+      "line": "08호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "잠실",
+      "engname": "Jamsil (Songpa-gu Office)",
+      "lat": 37.513305,
+      "lng": 127.100129,
+      "line_ui": "Line8",
+      "subwayid": 1008,
+      "line": "08호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "장지",
+      "engname": "Jangji",
+      "lat": 37.478609,
+      "lng": 127.126229,
+      "line_ui": "Line8",
+      "subwayid": 1008,
+      "line": "08호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "천호(풍납토성)",
+      "engname": "Cheonho(Pungnaptoseong)",
+      "lat": 37.53792,
+      "lng": 127.123179,
+      "line_ui": "Line8",
+      "subwayid": 1008,
+      "line": "08호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "가양",
+      "engname": "Gayang",
+      "lat": 37.561542,
+      "lng": 126.854275,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "개화",
+      "engname": "Gaehwa",
+      "lat": 37.578336,
+      "lng": 126.79681,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "고속터미널",
+      "engname": "Express Bus Terminal",
+      "lat": 37.503387,
+      "lng": 127.005055,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "공항시장",
+      "engname": "Airport Market",
+      "lat": 37.563625,
+      "lng": 126.81053,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "구반포",
+      "engname": "Gubanpo",
+      "lat": 37.50144,
+      "lng": 126.987602,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "국회의사당",
+      "engname": "National Assembly",
+      "lat": 37.528105,
+      "lng": 126.91782,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "김포공항",
+      "engname": "Gimpo Intl Airport",
+      "lat": 37.56217,
+      "lng": 126.801273,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "노들",
+      "engname": "Nodeul",
+      "lat": 37.512659,
+      "lng": 126.953158,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "노량진",
+      "engname": "Noryangjin",
+      "lat": 37.514072,
+      "lng": 126.941671,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "당산",
+      "engname": "Dangsan",
+      "lat": 37.534468,
+      "lng": 126.902375,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "동작",
+      "engname": "Dongjak (Seoul National Cemetery)",
+      "lat": 37.503089,
+      "lng": 126.9777,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "둔촌오륜",
+      "engname": "Dunchon Oryun",
+      "lat": 37.519365,
+      "lng": 127.138523,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "등촌",
+      "engname": "Deungchon",
+      "lat": 37.550805,
+      "lng": 126.865416,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "마곡나루",
+      "engname": "Magongnaru (Seoul Botanic Park)",
+      "lat": 37.566707,
+      "lng": 126.827485,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "봉은사",
+      "engname": "Bongeunsa",
+      "lat": 37.514194,
+      "lng": 127.060098,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "사평",
+      "engname": "Sapyeong",
+      "lat": 37.504325,
+      "lng": 127.015066,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "삼성중앙",
+      "engname": "Samseongjungang",
+      "lat": 37.512923,
+      "lng": 127.05287,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "삼전",
+      "engname": "Samjeon",
+      "lat": 37.5044,
+      "lng": 127.087786,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "샛강",
+      "engname": "Saetgang (KB Financial Town)",
+      "lat": 37.517304,
+      "lng": 126.928417,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "석촌",
+      "engname": "Seokchon",
+      "lat": 37.505396,
+      "lng": 127.106995,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "석촌고분",
+      "engname": "Seokchon Gobun",
+      "lat": 37.502415,
+      "lng": 127.096942,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "선유도",
+      "engname": "Seonyudo",
+      "lat": 37.538216,
+      "lng": 126.893196,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "선정릉",
+      "engname": "Seonjeongneung",
+      "lat": 37.510322,
+      "lng": 127.043849,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "송파나루",
+      "engname": "Songpanaru",
+      "lat": 37.510315,
+      "lng": 127.112218,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "신논현",
+      "engname": "Sinnonhyeon",
+      "lat": 37.504063,
+      "lng": 127.024407,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "신목동",
+      "engname": "Sinmokdong",
+      "lat": 37.544274,
+      "lng": 126.883074,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "신반포",
+      "engname": "Sinbanpo",
+      "lat": 37.503495,
+      "lng": 126.996059,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "신방화",
+      "engname": "Sinbanghwa",
+      "lat": 37.567513,
+      "lng": 126.817214,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "양천향교",
+      "engname": "Yangcheon Hyanggyo",
+      "lat": 37.568062,
+      "lng": 126.841912,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "언주",
+      "engname": "Eonju",
+      "lat": 37.507285,
+      "lng": 127.033797,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "여의도",
+      "engname": "Yeouido (Shinhan Securities)",
+      "lat": 37.521624,
+      "lng": 126.924191,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "염창",
+      "engname": "Yeomchang",
+      "lat": 37.546944,
+      "lng": 126.874702,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "올림픽공원",
+      "engname": "Olympic Park (Korea National Sport Univ.)",
+      "lat": 37.516078,
+      "lng": 127.130848,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "종합운동장",
+      "engname": "Sports Complex",
+      "lat": 37.511008,
+      "lng": 127.073641,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "중앙보훈병원",
+      "engname": "VHS Medical Center",
+      "lat": 37.528453,
+      "lng": 127.148405,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "증미",
+      "engname": "Jeungmi",
+      "lat": 37.558111,
+      "lng": 126.860661,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "한성백제",
+      "engname": "Hanseong Baekje",
+      "lat": 37.516345,
+      "lng": 127.116164,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "흑석",
+      "engname": "Heukseok(Chung Ang University)",
+      "lat": 37.509193,
+      "lng": 126.963345,
+      "line_ui": "Line9",
+      "subwayid": 1009,
+      "line": "09호선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "가좌",
+      "engname": "Gajwa",
+      "lat": 37.568611,
+      "lng": 126.914841,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "강매",
+      "engname": "Gangmae Station",
+      "lat": 37.612596,
+      "lng": 126.845437,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "곡산",
+      "engname": "Goksan",
+      "lat": 37.645729,
+      "lng": 126.801877,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "공덕",
+      "engname": "Gongdeok",
+      "lat": 37.544005,
+      "lng": 126.951058,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "구리",
+      "engname": "Guri",
+      "lat": 37.603184,
+      "lng": 127.143109,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "국수",
+      "engname": "Guksu",
+      "lat": 37.516171,
+      "lng": 127.399402,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "금릉",
+      "engname": "Geumneung",
+      "lat": 37.751295,
+      "lng": 126.765401,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "금촌",
+      "engname": "Geumchon",
+      "lat": 37.766106,
+      "lng": 126.774515,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "능곡",
+      "engname": "Neunggok",
+      "lat": 37.618741,
+      "lng": 126.820845,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "대곡",
+      "engname": "Daegok",
+      "lat": 37.631629,
+      "lng": 126.811025,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "덕소",
+      "engname": "Deokso",
+      "lat": 37.587013,
+      "lng": 127.208547,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "도농",
+      "engname": "Donong",
+      "lat": 37.608756,
+      "lng": 127.161105,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "도심",
+      "engname": "Dosim",
+      "lat": 37.579628,
+      "lng": 127.222798,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "디지털미디어시티",
+      "engname": "Digital Media City",
+      "lat": 37.577486,
+      "lng": 126.900421,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "망우",
+      "engname": "Mangu",
+      "lat": 37.59933,
+      "lng": 127.092339,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "문산",
+      "engname": "Munsan",
+      "lat": 37.854565,
+      "lng": 126.787531,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "백마",
+      "engname": "Baengma",
+      "lat": 37.658346,
+      "lng": 126.794401,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "상봉",
+      "engname": "Sangbong(Intercity Bus Terminal)",
+      "lat": 37.595673,
+      "lng": 127.085708,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "서강대",
+      "engname": "Sogang University",
+      "lat": 37.552132,
+      "lng": 126.935389,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "서빙고",
+      "engname": "Seobinggo",
+      "lat": 37.51961,
+      "lng": 126.988358,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "서울",
+      "engname": "Seoul Station",
+      "lat": 37.55315,
+      "lng": 126.972533,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "수색",
+      "engname": "Susaek",
+      "lat": 37.580855,
+      "lng": 126.895681,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "신원",
+      "engname": "Sinwon",
+      "lat": 37.5257,
+      "lng": 127.372887,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "신촌(경의.중앙선)",
+      "engname": "Sinchon",
+      "lat": 37.559768,
+      "lng": 126.942308,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "아신",
+      "engname": "asin",
+      "lat": 37.513954,
+      "lng": 127.443238,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "야당",
+      "engname": "Yadang",
+      "lat": 37.712749,
+      "lng": 126.761535,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "양수",
+      "engname": "Yangsu",
+      "lat": 37.545998,
+      "lng": 127.328948,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "양원",
+      "engname": "Yang Won",
+      "lat": 37.606569,
+      "lng": 127.107953,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "양정",
+      "engname": "Yangjeong",
+      "lat": 37.604269,
+      "lng": 127.194602,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "양평",
+      "engname": "Yangpyeong",
+      "lat": 37.492674,
+      "lng": 127.491858,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "오빈",
+      "engname": "Obin",
+      "lat": 37.506061,
+      "lng": 127.474053,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "옥수",
+      "engname": "Oksu",
+      "lat": 37.541653,
+      "lng": 127.017303,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "왕십리",
+      "engname": "Wangsimni (Seongdong-gu-office)",
+      "lat": 37.56197,
+      "lng": 127.037264,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "용문",
+      "engname": "Yongmun",
+      "lat": 37.482085,
+      "lng": 127.594251,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "용산",
+      "engname": "Yongsan",
+      "lat": 37.52989,
+      "lng": 126.964775,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "운길산",
+      "engname": "Ungilsan",
+      "lat": 37.554659,
+      "lng": 127.310089,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "운정",
+      "engname": "Unjeong",
+      "lat": 37.725441,
+      "lng": 126.767076,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "원덕",
+      "engname": "Wondeok",
+      "lat": 37.468585,
+      "lng": 127.547468,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "월롱",
+      "engname": "Wollong",
+      "lat": 37.796201,
+      "lng": 126.792574,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "응봉",
+      "engname": "Eungbong",
+      "lat": 37.550433,
+      "lng": 127.034824,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "이촌",
+      "engname": "Ichon (National Museum of Korea)",
+      "lat": 37.522525,
+      "lng": 126.97335,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "일산",
+      "engname": "Ilsan",
+      "lat": 37.682231,
+      "lng": 126.769521,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "중랑",
+      "engname": "Jungnang",
+      "lat": 37.594948,
+      "lng": 127.076152,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "지평",
+      "engname": "Jipyeong",
+      "lat": 37.476496,
+      "lng": 127.629681,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "청량리",
+      "engname": "Cheongnyangni(University of Seoul)",
+      "lat": 37.580148,
+      "lng": 127.045063,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "탄현",
+      "engname": "Tanhyeon",
+      "lat": 37.694114,
+      "lng": 126.761075,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "파주",
+      "engname": "PaJu",
+      "lat": 37.815119,
+      "lng": 126.792731,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "팔당",
+      "engname": "Paldang",
+      "lat": 37.547321,
+      "lng": 127.243896,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "풍산",
+      "engname": "Pungsan",
+      "lat": 37.672173,
+      "lng": 126.786355,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "한남",
+      "engname": "Hannam",
+      "lat": 37.529361,
+      "lng": 127.008984,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "행신",
+      "engname": "Haengsin",
+      "lat": 37.612125,
+      "lng": 126.834063,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "홍대입구",
+      "engname": "Hongik Univ.",
+      "lat": 37.556748,
+      "lng": 126.923643,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "화전",
+      "engname": "Hwajeon",
+      "lat": 37.602848,
+      "lng": 126.86838,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "회기",
+      "engname": "Hoegi",
+      "lat": 37.589802,
+      "lng": 127.057936,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "효창공원앞",
+      "engname": "Hyochang Park",
+      "lat": 37.539289,
+      "lng": 126.961339,
+      "line_ui": "경의선",
+      "subwayid": 1063,
+      "line": "경의선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "가평",
+      "engname": "Gapyeong",
+      "lat": 37.814496,
+      "lng": 127.510722,
+      "line_ui": "경춘선",
+      "subwayid": 1067,
+      "line": "경춘선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "갈매",
+      "engname": "Galmae",
+      "lat": 37.633874,
+      "lng": 127.114664,
+      "line_ui": "경춘선",
+      "subwayid": 1067,
+      "line": "경춘선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "강촌",
+      "engname": "Gangchon",
+      "lat": 37.805689,
+      "lng": 127.634085,
+      "line_ui": "경춘선",
+      "subwayid": 1067,
+      "line": "경춘선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "광운대",
+      "engname": "Kwangwoon Univ.",
+      "lat": 37.623632,
+      "lng": 127.061835,
+      "line_ui": "경춘선",
+      "subwayid": 1067,
+      "line": "경춘선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "굴봉산",
+      "engname": "Gulbongsan",
+      "lat": 37.832072,
+      "lng": 127.557816,
+      "line_ui": "경춘선",
+      "subwayid": 1067,
+      "line": "경춘선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "금곡",
+      "engname": "Geumgok",
+      "lat": 37.637311,
+      "lng": 127.207516,
+      "line_ui": "경춘선",
+      "subwayid": 1067,
+      "line": "경춘선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "김유정",
+      "engname": "Gimyujeong",
+      "lat": 37.818322,
+      "lng": 127.714155,
+      "line_ui": "경춘선",
+      "subwayid": 1067,
+      "line": "경춘선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "남춘천",
+      "engname": "Namchuncheon",
+      "lat": 37.864035,
+      "lng": 127.723786,
+      "line_ui": "경춘선",
+      "subwayid": 1067,
+      "line": "경춘선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "대성리",
+      "engname": "Daeseong-ri",
+      "lat": 37.683838,
+      "lng": 127.379662,
+      "line_ui": "경춘선",
+      "subwayid": 1067,
+      "line": "경춘선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "마석",
+      "engname": "Maseok",
+      "lat": 37.652758,
+      "lng": 127.311731,
+      "line_ui": "경춘선",
+      "subwayid": 1067,
+      "line": "경춘선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "망우",
+      "engname": "Mangu",
+      "lat": 37.59933,
+      "lng": 127.092339,
+      "line_ui": "경춘선",
+      "subwayid": 1067,
+      "line": "경춘선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "백양리",
+      "engname": "Baegyang-ri",
+      "lat": 37.830805,
+      "lng": 127.589182,
+      "line_ui": "경춘선",
+      "subwayid": 1067,
+      "line": "경춘선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "별내",
+      "engname": "Byeollae",
+      "lat": 37.642304,
+      "lng": 127.127487,
+      "line_ui": "경춘선",
+      "subwayid": 1067,
+      "line": "경춘선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "사릉",
+      "engname": "Sareung",
+      "lat": 37.651084,
+      "lng": 127.176893,
+      "line_ui": "경춘선",
+      "subwayid": 1067,
+      "line": "경춘선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "상봉",
+      "engname": "Sangbong(Intercity Bus Terminal)",
+      "lat": 37.595673,
+      "lng": 127.085708,
+      "line_ui": "경춘선",
+      "subwayid": 1067,
+      "line": "경춘선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "상천",
+      "engname": "Sangcheon",
+      "lat": 37.770044,
+      "lng": 127.454476,
+      "line_ui": "경춘선",
+      "subwayid": 1067,
+      "line": "경춘선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "신내",
+      "engname": "Sinnae",
+      "lat": 37.612571,
+      "lng": 127.104326,
+      "line_ui": "경춘선",
+      "subwayid": 1067,
+      "line": "경춘선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "중랑",
+      "engname": "Jungnang",
+      "lat": 37.594948,
+      "lng": 127.076152,
+      "line_ui": "경춘선",
+      "subwayid": 1067,
+      "line": "경춘선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "천마산",
+      "engname": "Cheonmasan",
+      "lat": 37.659021,
+      "lng": 127.285283,
+      "line_ui": "경춘선",
+      "subwayid": 1067,
+      "line": "경춘선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "청량리",
+      "engname": "Cheongnyangni(University of Seoul)",
+      "lat": 37.580148,
+      "lng": 127.045063,
+      "line_ui": "경춘선",
+      "subwayid": 1067,
+      "line": "경춘선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "청평",
+      "engname": "Cheongpyeong",
+      "lat": 37.735533,
+      "lng": 127.426729,
+      "line_ui": "경춘선",
+      "subwayid": 1067,
+      "line": "경춘선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "춘천",
+      "engname": "Chuncheon",
+      "lat": 37.884469,
+      "lng": 127.716638,
+      "line_ui": "경춘선",
+      "subwayid": 1067,
+      "line": "경춘선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "퇴계원",
+      "engname": "Toegyewon",
+      "lat": 37.64827,
+      "lng": 127.143483,
+      "line_ui": "경춘선",
+      "subwayid": 1067,
+      "line": "경춘선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "평내호평",
+      "engname": "PyeongnaeHopyeong",
+      "lat": 37.653205,
+      "lng": 127.244539,
+      "line_ui": "경춘선",
+      "subwayid": 1067,
+      "line": "경춘선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "회기",
+      "engname": "Hoegi",
+      "lat": 37.589802,
+      "lng": 127.057936,
+      "line_ui": "경춘선",
+      "subwayid": 1067,
+      "line": "경춘선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "검암",
+      "engname": "Geomam",
+      "lat": 37.5692068,
+      "lng": 126.6731455,
+      "line_ui": "공항철도",
+      "subwayid": 1065,
+      "line": "공항철도",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "계양",
+      "engname": "Gyeyang",
+      "lat": 37.5714532,
+      "lng": 126.7366447,
+      "line_ui": "공항철도",
+      "subwayid": 1065,
+      "line": "공항철도",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "공덕",
+      "engname": "Gongdeok",
+      "lat": 37.544005,
+      "lng": 126.951058,
+      "line_ui": "공항철도",
+      "subwayid": 1065,
+      "line": "공항철도",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "공항화물청사",
+      "engname": "Incheon Int'l Airport Cargo Terminal",
+      "lat": 37.4589761,
+      "lng": 126.4774206,
+      "line_ui": "공항철도",
+      "subwayid": 1065,
+      "line": "공항철도",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "김포공항",
+      "engname": "Gimpo Intl Airport",
+      "lat": 37.56217,
+      "lng": 126.801273,
+      "line_ui": "공항철도",
+      "subwayid": 1065,
+      "line": "공항철도",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "디지털미디어시티",
+      "engname": "Digital Media City",
+      "lat": 37.583989,
+      "lng": 126.909785,
+      "line_ui": "공항철도",
+      "subwayid": 1065,
+      "line": "공항철도",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "마곡나루",
+      "engname": "Magongnaru (Seoul Botanic Park)",
+      "lat": 37.566707,
+      "lng": 126.827485,
+      "line_ui": "공항철도",
+      "subwayid": 1065,
+      "line": "공항철도",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "서울",
+      "engname": "Seoul Station",
+      "lat": 37.55315,
+      "lng": 126.972533,
+      "line_ui": "공항철도",
+      "subwayid": 1065,
+      "line": "공항철도",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "영종",
+      "engname": "Yeongjong",
+      "lat": 37.5118654,
+      "lng": 126.5237272,
+      "line_ui": "공항철도",
+      "subwayid": 1065,
+      "line": "공항철도",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "운서",
+      "engname": "Unseo",
+      "lat": 37.4928447,
+      "lng": 126.493713,
+      "line_ui": "공항철도",
+      "subwayid": 1065,
+      "line": "공항철도",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "인천공항1터미널",
+      "engname": "Incheon Int'l Airport Terminal 1",
+      "lat": 37.4475485,
+      "lng": 126.4580914,
+      "line_ui": "공항철도",
+      "subwayid": 1065,
+      "line": "공항철도",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "인천공항2터미널",
+      "engname": "Incheon Int'l Airport Terminal 2",
+      "lat": 37.479174,
+      "lng": 126.4406136,
+      "line_ui": "공항철도",
+      "subwayid": 1065,
+      "line": "공항철도",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "청라국제도시",
+      "engname": "Cheongna Int'l City",
+      "lat": 37.5548865,
+      "lng": 126.6253775,
+      "line_ui": "공항철도",
+      "subwayid": 1065,
+      "line": "공항철도",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "홍대입구",
+      "engname": "Hongik Univ.",
+      "lat": 37.556748,
+      "lng": 126.923643,
+      "line_ui": "공항철도",
+      "subwayid": 1065,
+      "line": "공항철도",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "가천대",
+      "engname": "Gachon Univ",
+      "lat": 37.448784,
+      "lng": 127.126677,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "강남구청",
+      "engname": "Gangnam-gu Office",
+      "lat": 37.517172,
+      "lng": 127.041275,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "개포동",
+      "engname": "Gaepo-dong",
+      "lat": 37.489061,
+      "lng": 127.065987,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "고색",
+      "engname": "Gosaek",
+      "lat": 37.249709,
+      "lng": 126.980482,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "고잔",
+      "engname": "Gojan",
+      "lat": 37.316821,
+      "lng": 126.823094,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "구룡",
+      "engname": "Guryong",
+      "lat": 37.486959,
+      "lng": 127.059469,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "구성",
+      "engname": "Guseong",
+      "lat": 37.299013,
+      "lng": 127.105664,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "기흥",
+      "engname": "Giheung",
+      "lat": 37.275657,
+      "lng": 127.115944,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "남동인더스파크",
+      "engname": "Namdong Induspark",
+      "lat": 37.407868,
+      "lng": 126.695613,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "달월",
+      "engname": "Darwol",
+      "lat": 37.379993,
+      "lng": 126.745431,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "대모산",
+      "engname": "Daemosan",
+      "lat": 37.491422,
+      "lng": 127.07274,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "도곡",
+      "engname": "Dogok",
+      "lat": 37.491129,
+      "lng": 127.055694,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "망포",
+      "engname": "Mangpo",
+      "lat": 37.245793,
+      "lng": 127.057367,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "매교",
+      "engname": "Maegyo",
+      "lat": 37.265502,
+      "lng": 127.015657,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "매탄권선",
+      "engname": "MaetanGwonseon",
+      "lat": 37.252458,
+      "lng": 127.040824,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "모란",
+      "engname": "Moran",
+      "lat": 37.433888,
+      "lng": 127.129921,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "미금",
+      "engname": "Migeum(Seoul Natl University Bundang Hospital)",
+      "lat": 37.3501,
+      "lng": 127.1089,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "보정",
+      "engname": "Bojeong",
+      "lat": 37.312864,
+      "lng": 127.108278,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "복정",
+      "engname": "Bokjeong",
+      "lat": 37.471016,
+      "lng": 127.126746,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "사리",
+      "engname": "Sari Station",
+      "lat": 37.289982,
+      "lng": 126.856872,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "상갈",
+      "engname": "Sanggal",
+      "lat": 37.261797,
+      "lng": 127.108718,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "서울숲",
+      "engname": "Seoul Forest",
+      "lat": 37.543647,
+      "lng": 127.044686,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "서현",
+      "engname": "Seohyeon",
+      "lat": 37.384931,
+      "lng": 127.123249,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "선릉",
+      "engname": "Seolleung",
+      "lat": 37.504257,
+      "lng": 127.048174,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "선정릉",
+      "engname": "Seonjeongneung",
+      "lat": 37.510275,
+      "lng": 127.043817,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "소래포구",
+      "engname": "Soraepogu",
+      "lat": 37.400963,
+      "lng": 126.733533,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "송도",
+      "engname": "songdo",
+      "lat": 37.430011,
+      "lng": 126.654506,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "수내",
+      "engname": "Sunae",
+      "lat": 37.378444,
+      "lng": 127.114297,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "수서",
+      "engname": "Suseo",
+      "lat": 37.487507,
+      "lng": 127.101324,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "수원",
+      "engname": "Suwon",
+      "lat": 37.266162,
+      "lng": 126.999821,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "수원시청",
+      "engname": "Suwon City Hal",
+      "lat": 37.261941,
+      "lng": 127.030736,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "숭의",
+      "engname": "Sungui",
+      "lat": 37.460891,
+      "lng": 126.638035,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "신갈",
+      "engname": "Singal",
+      "lat": 37.286127,
+      "lng": 127.111311,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "신길온천",
+      "engname": "Silgiloncheon",
+      "lat": 37.337488,
+      "lng": 126.767306,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "신포",
+      "engname": "Sinpo",
+      "lat": 37.468442,
+      "lng": 126.624509,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "안산",
+      "engname": "Ansan",
+      "lat": 37.327006,
+      "lng": 126.788748,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "압구정로데오",
+      "engname": "Apgujeong Rodeo",
+      "lat": 37.527385,
+      "lng": 127.040555,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "야목",
+      "engname": "Yamok",
+      "lat": 37.261011,
+      "lng": 126.88429,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "야탑",
+      "engname": "Yatap",
+      "lat": 37.41132,
+      "lng": 127.128661,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "어천",
+      "engname": "Eocheon",
+      "lat": 37.250076,
+      "lng": 126.908805,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "연수",
+      "engname": "Yeonsu",
+      "lat": 37.417769,
+      "lng": 126.678991,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "영통",
+      "engname": "Yeongtong",
+      "lat": 37.251521,
+      "lng": 127.071341,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "오리",
+      "engname": "Ori",
+      "lat": 37.339832,
+      "lng": 127.108985,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "오목천",
+      "engname": "Omokcheon",
+      "lat": 37.243124,
+      "lng": 126.963634,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "오이도",
+      "engname": "Oido",
+      "lat": 37.361773,
+      "lng": 126.738437,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "왕십리",
+      "engname": "Wangsimni",
+      "lat": 37.561128,
+      "lng": 127.035505,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "원인재",
+      "engname": "Woninjae",
+      "lat": 37.412921,
+      "lng": 126.686952,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "월곶",
+      "engname": "wolgot",
+      "lat": 37.391994,
+      "lng": 126.742515,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "이매",
+      "engname": "Imae",
+      "lat": 37.395846,
+      "lng": 127.128272,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "인천",
+      "engname": "Incheon",
+      "lat": 37.476364,
+      "lng": 126.616936,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "인천논현",
+      "engname": "Incheon Nonhyeon",
+      "lat": 37.400641,
+      "lng": 126.722495,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "인하대",
+      "engname": "Inha Univ.",
+      "lat": 37.448191,
+      "lng": 126.649832,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "정왕",
+      "engname": "Jeongwang",
+      "lat": 37.351816,
+      "lng": 126.742844,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "정자",
+      "engname": "Jeongja",
+      "lat": 37.366037,
+      "lng": 127.108091,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "죽전",
+      "engname": "Jukjeon",
+      "lat": 37.324575,
+      "lng": 127.107385,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "NNNN"
+    },
+     {
+      "subname": "중앙",
+      "engname": "Jungang",
+      "lat": 37.316055,
+      "lng": 126.838532,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "청량리",
+      "engname": "Cheongnyangni(University of Seoul)",
+      "lat": 37.580148,
+      "lng": 127.045063,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "청명",
+      "engname": "Cheongmyeong",
+      "lat": 37.259485,
+      "lng": 127.078945,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "초지",
+      "engname": "Choji",
+      "lat": 37.320583,
+      "lng": 126.806151,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "태평",
+      "engname": "Taepyeong",
+      "lat": 37.439842,
+      "lng": 127.127746,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "한대앞",
+      "engname": "Hanyang Univ. at Ansan",
+      "lat": 37.309685,
+      "lng": 126.853656,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "한티",
+      "engname": "Hanti",
+      "lat": 37.496208,
+      "lng": 127.052883,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "호구포",
+      "engname": "Hogupo",
+      "lat": 37.401622,
+      "lng": 126.708682,
+      "line_ui": "수인분당",
+      "subwayid": 1075,
+      "line": "수인분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "강남",
+      "engname": "Gangnam",
+      "lat": 37.496068,
+      "lng": 127.028506,
+      "line_ui": "신분당",
+      "subwayid": 1077,
+      "line": "신분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "광교",
+      "engname": "Gwanggyo (Kyonggi Univ.)",
+      "lat": 37.302122,
+      "lng": 127.044184,
+      "line_ui": "신분당",
+      "subwayid": 1077,
+      "line": "신분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "광교중앙",
+      "engname": "GwanggyoJungang (Ajou Univ.)",
+      "lat": 37.288392,
+      "lng": 127.051734,
+      "line_ui": "신분당",
+      "subwayid": 1077,
+      "line": "신분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "논현",
+      "engname": "nonhyeon",
+      "lat": 37.5096469,
+      "lng": 127.0220546,
+      "line_ui": "신분당",
+      "subwayid": 1077,
+      "line": "신분당선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "동천",
+      "engname": "dong cheon Station",
+      "lat": 37.33799,
+      "lng": 127.102808,
+      "line_ui": "신분당",
+      "subwayid": 1077,
+      "line": "신분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "미금",
+      "engname": "Migeum(Seoul Natl University Bundang Hospital)",
+      "lat": 37.3501,
+      "lng": 127.1089,
+      "line_ui": "신분당",
+      "subwayid": 1077,
+      "line": "신분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "상현",
+      "engname": "Sanghyeon",
+      "lat": 37.29775,
+      "lng": 127.069325,
+      "line_ui": "신분당",
+      "subwayid": 1077,
+      "line": "신분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "성복",
+      "engname": "Seongbok",
+      "lat": 37.313621,
+      "lng": 127.080321,
+      "line_ui": "신분당",
+      "subwayid": 1077,
+      "line": "신분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "수지구청",
+      "engname": "Suji-gu office Station",
+      "lat": 37.3225,
+      "lng": 127.0946,
+      "line_ui": "신분당",
+      "subwayid": 1077,
+      "line": "신분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "신논현",
+      "engname": "Sinnonhyeon",
+      "lat": 37.504063,
+      "lng": 127.024407,
+      "line_ui": "신분당",
+      "subwayid": 1077,
+      "line": "신분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "신사",
+      "engname": "Sinsa",
+      "lat": 37.516438,
+      "lng": 127.020247,
+      "line_ui": "신분당",
+      "subwayid": 1077,
+      "line": "신분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "양재",
+      "engname": "Yangjae (Seocho-gu Office)",
+      "lat": 37.48466,
+      "lng": 127.03513,
+      "line_ui": "신분당",
+      "subwayid": 1077,
+      "line": "신분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "양재시민의숲",
+      "engname": "Yangjae Citizens Forest (Maeheon)",
+      "lat": 37.470004,
+      "lng": 127.038461,
+      "line_ui": "신분당",
+      "subwayid": 1077,
+      "line": "신분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "정자",
+      "engname": "Jeongja",
+      "lat": 37.366037,
+      "lng": 127.108091,
+      "line_ui": "신분당",
+      "subwayid": 1077,
+      "line": "신분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "청계산입구",
+      "engname": "Cheonggyesan",
+      "lat": 37.448383,
+      "lng": 127.054678,
+      "line_ui": "신분당",
+      "subwayid": 1077,
+      "line": "신분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "판교",
+      "engname": "Pangyo (Pangyo Techno Valley)",
+      "lat": 37.394731,
+      "lng": 127.111222,
+      "line_ui": "신분당",
+      "subwayid": 1077,
+      "line": "신분당선",
+      "heading": "LEFT"
+    },
+     {
+      "subname": "4.19 민주묘지",
+      "engname": "April 19th National Cemetery(Duksung Women's Univ.)",
+      "lat": 37.64954,
+      "lng": 127.01371,
+      "line_ui": "우이신설",
+      "subwayid": 1092,
+      "line": "우이신설선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "가오리",
+      "engname": "Gaori",
+      "lat": 37.64162,
+      "lng": 127.01681,
+      "line_ui": "우이신설",
+      "subwayid": 1092,
+      "line": "우이신설선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "보문",
+      "engname": "Bomun",
+      "lat": 37.585293,
+      "lng": 127.019377,
+      "line_ui": "우이신설",
+      "subwayid": 1092,
+      "line": "우이신설선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "북한산보국문",
+      "engname": "Bukhansan Bogungmun(Seokyeong Univ.)",
+      "lat": 37.61233,
+      "lng": 127.00816,
+      "line_ui": "우이신설",
+      "subwayid": 1092,
+      "line": "우이신설선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "북한산우이",
+      "engname": "Bukhansan Ui (Doseonsa)",
+      "lat": 37.66284,
+      "lng": 127.01272,
+      "line_ui": "우이신설",
+      "subwayid": 1092,
+      "line": "우이신설선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "삼양",
+      "engname": "Samyang",
+      "lat": 37.62706,
+      "lng": 127.01817,
+      "line_ui": "우이신설",
+      "subwayid": 1092,
+      "line": "우이신설선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "삼양사거리",
+      "engname": "Samyang Sageori",
+      "lat": 37.62144,
+      "lng": 127.02049,
+      "line_ui": "우이신설",
+      "subwayid": 1092,
+      "line": "우이신설선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "성신여대입구",
+      "engname": "Sungshin Womens Univ. (Donam)",
+      "lat": 37.592782,
+      "lng": 127.017338,
+      "line_ui": "우이신설",
+      "subwayid": 1092,
+      "line": "우이신설선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "솔밭공원",
+      "engname": "Solbat Park",
+      "lat": 37.65607,
+      "lng": 127.01326,
+      "line_ui": "우이신설",
+      "subwayid": 1092,
+      "line": "우이신설선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "솔샘",
+      "engname": "Solsaem",
+      "lat": 37.62037,
+      "lng": 127.01357,
+      "line_ui": "우이신설",
+      "subwayid": 1092,
+      "line": "우이신설선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "신설동",
+      "engname": "Sinseol-dong",
+      "lat": 37.574653,
+      "lng": 127.025158,
+      "line_ui": "우이신설",
+      "subwayid": 1092,
+      "line": "우이신설선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "정릉",
+      "engname": "Jeongneung(Kookmin Univ.)",
+      "lat": 37.602809,
+      "lng": 127.013376,
+      "line_ui": "우이신설",
+      "subwayid": 1092,
+      "line": "우이신설선",
+      "heading": "RIGHT"
+    },
+     {
+      "subname": "화계",
+      "engname": "Hwagye",
+      "lat": 37.63428,
+      "lng": 127.0175,
+      "line_ui": "우이신설",
+      "subwayid": 1092,
+      "line": "우이신설선",
+      "heading": "RIGHT"
+    }
+  ]
+}
