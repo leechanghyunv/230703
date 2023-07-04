@@ -1,15 +1,17 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:get/get.dart';
+import 'package:get_storage/get_storage.dart';
 import 'package:test_combine_backend_230630/screen/FirstScreen.dart';
 
-void main() {
+void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   runApp(ProviderScope(
     observers: [
       Logger(),
     ],
       child: const MyApp()));
+  await GetStorage.init();
 }
 
 class Logger extends ProviderObserver {
